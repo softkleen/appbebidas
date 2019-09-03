@@ -46,5 +46,11 @@ namespace AppBebidas
                 txtTipo.Enabled = true;
             }
         }
+
+        private void btnInserir_Click(object sender, EventArgs e)
+        {
+            //projeto
+
+        }
     }
 }
